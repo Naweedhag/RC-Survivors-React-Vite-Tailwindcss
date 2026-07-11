@@ -11,9 +11,8 @@
 
 🛠️ Tech Stack
 
-- React 18 - UI Library
-- Vite** - Build Tool
+- React - 
+- Vite - Build Tool
 - Tailwind CSS - Styling
-- React Router DOM v6 - Routing
 - React Icons - Icon library (Font Awesome & Game Icons)
 
